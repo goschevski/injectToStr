@@ -1,5 +1,7 @@
 # InjectToStr
 
+[![Build Status](https://travis-ci.org/goschevski/injectToStr.svg?branch=master)](https://travis-ci.org/goschevski/injectToStr)
+
 InjectToStr is simple library for injecting variables in strings.
 
 It works in both node and client-side applications.
