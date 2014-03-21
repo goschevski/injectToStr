@@ -1,0 +1,29 @@
+{
+  "name": "injectToStr",
+  "version": "0.0.0",
+  "description": "Inject object variables to string.",
+  "main": "injectToStr.js",
+  "scripts": {
+    "test": "mocha -R spec test/*-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goschevski/injectToStr"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "~1.9.0"
+  },
+  "keywords": [
+    "string",
+    "bind",
+    "inject"
+  ],
+  "author": "Aleksandar Gosevski - www.goschevski.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goschevski/injectToStr/issues"
+  },
+  "homepage": "https://github.com/goschevski/injectToStr"
+}
