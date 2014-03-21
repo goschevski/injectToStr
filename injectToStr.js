@@ -2,8 +2,6 @@
     injectToStr
     Inject object variables to string.
     https://github.com/goschevski/injectToStr
-    by Sindre Sorhus
-    MIT License
 */
 ;(function () {
 
