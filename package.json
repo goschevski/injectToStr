@@ -1,5 +1,5 @@
 {
-  "name": "injectToStr",
+  "name": "injecttostr",
   "version": "0.0.0",
   "description": "Inject object variables to string.",
   "main": "injectToStr.js",
