@@ -8,7 +8,7 @@ It works in both node and client-side applications.
 
 ###### Example
 
-```
+```javascript
 var injectToStr = require('injectToStr');
 
 var str = injectToStr('Follow @[user] on github.', { user: 'goschevski' });
